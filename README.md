@@ -4,10 +4,10 @@
 </h1>
 
 
-![previews](/home/hazi/CODE/DEFAI-main/assets/screenshots/defaipreview.png)
-![previews](/home/hazi/CODE/DEFAI-main/assets/screenshots/defai1.png)
-![previews](/home/hazi/CODE/DEFAI-main/assets/screenshots/defai2.png)
-![previews](/home/hazi/CODE/DEFAI-main/assets/screenshots/defai3.png)
+![previews](assets/screenshots/defaipreview.png)
+![previews](assets/screenshots/defai1.png)
+![previews](assets/screenshots/defai2.png)
+![previews](assets/screenshots/defai3.png)
 # Requisites ⚙️
 
 To use the web interface, these requisites must be met:

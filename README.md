@@ -28,7 +28,7 @@ git clone https://github.com/HazielCancino/DEFAI-main/
 **2. Open the folder:**
 
 ```
-cd oxford
+cd DEFAI
 ```
 
 **3. Rename the `.example.env` to `.env`:**

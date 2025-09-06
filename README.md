@@ -3,6 +3,19 @@
   DEFAI
 </h1>
 
+# DEFAI - DeFi AI Assistant
+
+DEFAI is a web-based AI chat application that serves as an intelligent assistant for decentralized finance (DeFi) interactions. The application provides a user-friendly interface to communicate with AI models, supporting both cloud-based OpenAI integration and local model execution via Ollama.
+
+## Key Features:
+- **Dual AI Model Support**: Switch between cloud-based OpenAI GPT-4o and local Ollama models
+- **DeFi Functionality**: Built-in tools for cryptocurrency operations like balance checking, swapping, and transactions
+- **Responsive Web Interface**: Modern UI built with Next.js, Tailwind CSS, and shadcn-ui components
+- **Web3 Integration**: Ethereum wallet connectivity for DeFi operations
+
+## Core Functionality:
+The chat interface enables users to perform various DeFi operations through natural language commands, such as checking AVAX balances, swapping tokens, sending transactions, and requesting confirmations - all powered by AI assistance.
+
 
 ![previews](assets/screenshots/defaipreview.png)
 ![previews](assets/screenshots/defai1.png)
